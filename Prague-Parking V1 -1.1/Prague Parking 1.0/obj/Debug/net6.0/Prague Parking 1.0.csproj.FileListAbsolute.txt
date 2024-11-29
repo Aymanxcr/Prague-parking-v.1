@@ -1,0 +1,28 @@
+C:\Users\cr7gr\Downloads\Prague-Parking---Louise-Olsson-master\Prague-Parking---Louise-Olsson-master\Prague Parking 1.0\bin\Debug\net6.0\Prague Parking 1.0.exe
+C:\Users\cr7gr\Downloads\Prague-Parking---Louise-Olsson-master\Prague-Parking---Louise-Olsson-master\Prague Parking 1.0\bin\Debug\net6.0\Prague Parking 1.0.deps.json
+C:\Users\cr7gr\Downloads\Prague-Parking---Louise-Olsson-master\Prague-Parking---Louise-Olsson-master\Prague Parking 1.0\bin\Debug\net6.0\Prague Parking 1.0.runtimeconfig.json
+C:\Users\cr7gr\Downloads\Prague-Parking---Louise-Olsson-master\Prague-Parking---Louise-Olsson-master\Prague Parking 1.0\bin\Debug\net6.0\Prague Parking 1.0.dll
+C:\Users\cr7gr\Downloads\Prague-Parking---Louise-Olsson-master\Prague-Parking---Louise-Olsson-master\Prague Parking 1.0\bin\Debug\net6.0\Prague Parking 1.0.pdb
+C:\Users\cr7gr\Downloads\Prague-Parking---Louise-Olsson-master\Prague-Parking---Louise-Olsson-master\Prague Parking 1.0\obj\Debug\net6.0\Prague Parking 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cr7gr\Downloads\Prague-Parking---Louise-Olsson-master\Prague-Parking---Louise-Olsson-master\Prague Parking 1.0\obj\Debug\net6.0\Prague Parking 1.0.AssemblyInfoInputs.cache
+C:\Users\cr7gr\Downloads\Prague-Parking---Louise-Olsson-master\Prague-Parking---Louise-Olsson-master\Prague Parking 1.0\obj\Debug\net6.0\Prague Parking 1.0.AssemblyInfo.cs
+C:\Users\cr7gr\Downloads\Prague-Parking---Louise-Olsson-master\Prague-Parking---Louise-Olsson-master\Prague Parking 1.0\obj\Debug\net6.0\Prague Parking 1.0.csproj.CoreCompileInputs.cache
+C:\Users\cr7gr\Downloads\Prague-Parking---Louise-Olsson-master\Prague-Parking---Louise-Olsson-master\Prague Parking 1.0\obj\Debug\net6.0\Prague Parking 1.0.dll
+C:\Users\cr7gr\Downloads\Prague-Parking---Louise-Olsson-master\Prague-Parking---Louise-Olsson-master\Prague Parking 1.0\obj\Debug\net6.0\refint\Prague Parking 1.0.dll
+C:\Users\cr7gr\Downloads\Prague-Parking---Louise-Olsson-master\Prague-Parking---Louise-Olsson-master\Prague Parking 1.0\obj\Debug\net6.0\Prague Parking 1.0.pdb
+C:\Users\cr7gr\Downloads\Prague-Parking---Louise-Olsson-master\Prague-Parking---Louise-Olsson-master\Prague Parking 1.0\obj\Debug\net6.0\Prague Parking 1.0.genruntimeconfig.cache
+C:\Users\cr7gr\Downloads\Prague-Parking---Louise-Olsson-master\Prague-Parking---Louise-Olsson-master\Prague Parking 1.0\obj\Debug\net6.0\ref\Prague Parking 1.0.dll
+C:\Users\cr7gr\Desktop\Prague-Parking\Prague-Parking V1 -1.1\Prague Parking 1.0\bin\Debug\net6.0\Prague Parking 1.0.exe
+C:\Users\cr7gr\Desktop\Prague-Parking\Prague-Parking V1 -1.1\Prague Parking 1.0\bin\Debug\net6.0\Prague Parking 1.0.deps.json
+C:\Users\cr7gr\Desktop\Prague-Parking\Prague-Parking V1 -1.1\Prague Parking 1.0\bin\Debug\net6.0\Prague Parking 1.0.runtimeconfig.json
+C:\Users\cr7gr\Desktop\Prague-Parking\Prague-Parking V1 -1.1\Prague Parking 1.0\bin\Debug\net6.0\Prague Parking 1.0.dll
+C:\Users\cr7gr\Desktop\Prague-Parking\Prague-Parking V1 -1.1\Prague Parking 1.0\bin\Debug\net6.0\Prague Parking 1.0.pdb
+C:\Users\cr7gr\Desktop\Prague-Parking\Prague-Parking V1 -1.1\Prague Parking 1.0\obj\Debug\net6.0\Prague Parking 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cr7gr\Desktop\Prague-Parking\Prague-Parking V1 -1.1\Prague Parking 1.0\obj\Debug\net6.0\Prague Parking 1.0.AssemblyInfoInputs.cache
+C:\Users\cr7gr\Desktop\Prague-Parking\Prague-Parking V1 -1.1\Prague Parking 1.0\obj\Debug\net6.0\Prague Parking 1.0.AssemblyInfo.cs
+C:\Users\cr7gr\Desktop\Prague-Parking\Prague-Parking V1 -1.1\Prague Parking 1.0\obj\Debug\net6.0\Prague Parking 1.0.csproj.CoreCompileInputs.cache
+C:\Users\cr7gr\Desktop\Prague-Parking\Prague-Parking V1 -1.1\Prague Parking 1.0\obj\Debug\net6.0\Prague Parking 1.0.dll
+C:\Users\cr7gr\Desktop\Prague-Parking\Prague-Parking V1 -1.1\Prague Parking 1.0\obj\Debug\net6.0\refint\Prague Parking 1.0.dll
+C:\Users\cr7gr\Desktop\Prague-Parking\Prague-Parking V1 -1.1\Prague Parking 1.0\obj\Debug\net6.0\Prague Parking 1.0.pdb
+C:\Users\cr7gr\Desktop\Prague-Parking\Prague-Parking V1 -1.1\Prague Parking 1.0\obj\Debug\net6.0\Prague Parking 1.0.genruntimeconfig.cache
+C:\Users\cr7gr\Desktop\Prague-Parking\Prague-Parking V1 -1.1\Prague Parking 1.0\obj\Debug\net6.0\ref\Prague Parking 1.0.dll
